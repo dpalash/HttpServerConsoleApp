@@ -1,0 +1,11 @@
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\HttpServerConsoleApp.exe.config
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\HttpServerConsoleApp.exe
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\HttpServerConsoleApp.pdb
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\obj\Debug\HttpServerConsoleApp.csproj.App.config
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\obj\Debug\HttpServerConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\obj\Debug\HttpServerConsoleApp.exe
+c:\users\cefalo\documents\visual studio 2017\Projects\HttpServerConsoleApp\HttpServerConsoleApp\obj\Debug\HttpServerConsoleApp.pdb
